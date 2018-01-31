@@ -1,0 +1,38 @@
+﻿生成启动时间为 2018/1/12 19:25:57。
+     1>项目“E:\DrawProject-master\Talk915LuckyDrawPro\Talk915LuckyDrawPro.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\Talk915LuckyDrawPro.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Talk915LuckyDrawPro.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Talk915LuckyDrawProDlg.cpp
+         Talk915LuckyDrawProDlg.cpp
+     1>Talk915LuckyDrawProDlg.cpp(75): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Talk915LuckyDrawProDlg.cpp(76): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Talk915LuckyDrawProDlg.cpp(77): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Talk915LuckyDrawProDlg.cpp(78): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Talk915LuckyDrawProDlg.cpp(81): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>Talk915LuckyDrawProDlg.cpp(82): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>Talk915LuckyDrawProDlg.cpp(152): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\DrawProject-master\Release\Talk915LuckyDrawPro.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\Talk915LuckyDrawPro.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\DrawProject-master\Release\Talk915LuckyDrawPro.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\DrawProject-master\Release\Talk915LuckyDrawPro.lib" /MACHINE:X86 Release\Talk915LuckyDrawPro.res
+         Release\BtnST.obj
+         Release\CharCode.obj
+         Release\stdafx.obj
+         Release\Talk915LuckyDrawPro.obj
+         Release\Talk915LuckyDrawProDlg.obj
+         Release\ThreadEx.obj
+         正在生成代码
+         已完成代码的生成
+         Talk915LuckyDrawPro.vcxproj -> E:\DrawProject-master\Release\Talk915LuckyDrawPro.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\DrawProject-master\Release\Talk915LuckyDrawPro.exe;#1" /manifest Release\Talk915LuckyDrawPro.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\Talk915LuckyDrawPro.unsuccessfulbuild”。
+         正在对“Release\Talk915LuckyDrawPro.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\DrawProject-master\Talk915LuckyDrawPro\Talk915LuckyDrawPro.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.93
